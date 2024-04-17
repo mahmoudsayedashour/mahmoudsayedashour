@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there! 👋 I'm MAhmoud Sayed Ashour
 
-<!--
-**mahmoudsayedashour/mahmoudsayedashour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate **Data Scientist** and aspiring **Data Analysis** from Egypt.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI, Data Science and other technologies!
+
+## 👨‍💻 Check Out My Projects
+
+Explore my repositories at [GitHub]((https://github.com/mahmoudsayedashour))
+
+## 📝 Read My Latest Posts
+
+Check out my articles on [LinkedIn]((https://www.linkedin.com/in/mahmoud-sayed-b416b0275))
+
+## 📫 How to Reach Me
+
+Feel free to contact me via email at **mahmoudsayedza.258@gmail.com**
+
+## 📄 My Experiences
+
+Learn more about my journey on [LinkedIn]((https://www.linkedin.com/in/mahmoud-sayed-b416b0275))
+
+## 🚀 Connect with Me
+
+Let's connect and stay in touch:
+- [LinkedIn]((https://www.linkedin.com/in/mahmoud-sayed-b416b0275))
+- [Kaggle]((https://www.kaggle.com/mahmoudsayedza258))
+- [Facebook]((https://www.facebook.com/profile.php?id=100083068540105&mibextid=rS40aB7S9Ucbxw6v))
+- [Codeforces]((https://codeforces.com/profile/Mahmoudsayed258))
