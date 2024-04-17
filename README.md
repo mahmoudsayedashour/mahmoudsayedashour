@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm MAhmoud Sayed Ashour
+  # Hi there! 👋 I'm MAhmoud Sayed Ashour
 
 A passionate **Data Scientist** and aspiring **Data Analysis** from Egypt.
 
@@ -25,7 +25,7 @@ Learn more about my journey on [LinkedIn]((https://www.linkedin.com/in/mahmoud-s
 ## 🚀 Connect with Me
 
 Let's connect and stay in touch:
-- [LinkedIn]((https://www.linkedin.com/in/mahmoud-sayed-b416b0275))
-- [Kaggle]((https://www.kaggle.com/mahmoudsayedza258))
-- [Facebook]((https://www.facebook.com/profile.php?id=100083068540105&mibextid=rS40aB7S9Ucbxw6v))
-- [Codeforces]((https://codeforces.com/profile/Mahmoudsayed258))
+- [LinkedIn](https://www.linkedin.com/in/mahmoud-sayed-b416b0275)
+- [Kaggle](https://www.kaggle.com/mahmoudsayedza258)
+- [Facebook](https://www.facebook.com/profile.php?id=100083068540105&mibextid=rS40aB7S9Ucbxw6v)
+- [Codeforces](https://codeforces.com/profile/Mahmoudsayed258)
