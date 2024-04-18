@@ -2,7 +2,7 @@
 
 A passionate **Data Scientist** and aspiring **Data Analysis** from Egypt.
 
-## 🌱 Currently Work Freelancing in Data Analysis
+## 🌱 Currently Work Freelance in Data Analysis
 
 AI, Data Science and other technologies!
 
