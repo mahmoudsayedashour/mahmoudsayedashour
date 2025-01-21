@@ -2,23 +2,23 @@
 
 A passionate **Data Scientist** and aspiring **Data Analysis** from Egypt.
 
-## 🌱 Currently Work Freelance in Data Analysis
+##  Currently Work Freelance in Data Analysis
 
 AI, Data Science and other technologies!
 
-## 👨‍💻 Check Out My Projects
+##  Check Out My Projects
 
 Explore my repositories at [GitHub]((https://github.com/mahmoudsayedashour))
 
-## 📝 Read My Latest Posts
+##  Read My Latest Posts
 
 Check out my articles on [LinkedIn]((https://www.linkedin.com/in/mahmoud-sayed-b416b0275))
 
-## 📫 How to Reach Me
+##  How to Reach Me
 
 Feel free to contact me via email at **mahmoudsayedza.258@gmail.com**
 
-## 📄 My Experiences
+##  My Experiences
 
 Learn more about my journey on [LinkedIn]((https://www.linkedin.com/in/mahmoud-sayed-b416b0275))
 
